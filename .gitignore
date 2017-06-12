@@ -1,0 +1,9 @@
+venvthebook/
+*.pyc
+.idea/
+db.sqlite3
+geckodriver.log
+__pycache__
+.vagrant/
+static/
+database/
